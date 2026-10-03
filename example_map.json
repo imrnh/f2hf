@@ -1,0 +1,32 @@
+[
+  {
+    "file": "sample_0.png",
+    "class_name": "grey_fox",
+    "title": "Grey Fox",
+    "default_class": "grey_fox"
+  },
+  {
+    "file": "sample_5.png",
+    "class_name": "oboe",
+    "title": "Man in black suit with oboe",
+    "default_class": "oboe"
+  },
+  {
+    "file": "sample_2.png",
+    "class_name": "goldfinch",
+    "title": "2 Goldfinch",
+    "default_class": "goldfinch"
+  },
+  {
+    "file": "sample_3.png",
+    "class_name": "ruffed_grouse",
+    "title": "Ruffed Grouse sitting in pebble.",
+    "default_class": "ruffed_grouse"
+  },
+  {
+    "file": "sample_4.png",
+    "class_name": "European_gallinule",
+    "title": "European Gallinule",
+    "default_class": "European_gallinule"
+  }
+]
